@@ -6,3 +6,4 @@ def hello(array)
     i += 1
   end
   collection
+end
